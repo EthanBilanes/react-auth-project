@@ -6,6 +6,8 @@ const Login = () => {
         <section>
         <h1>Login Page in Progress </h1>
         <br />
+        <Link to="/signup">Go to signup</Link>
+        <br />
         <Link to="/">Return to home page</Link>
         </section>
     )
